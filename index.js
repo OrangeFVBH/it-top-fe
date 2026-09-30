@@ -16,6 +16,6 @@ function findIvan(arr) {
 function addUser(obj){
     users.push(obj)
     return users
-}
+};
 
 console.log(addUser({name: 'jarone', age: 72}))
